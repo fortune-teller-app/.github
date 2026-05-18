@@ -21,7 +21,8 @@ The platform is designed to be engaging and entertaining, with AI at its core ha
 
 ---
 
-
+<div align="center">
+  
 ### Team
 
 | Name | Role |
@@ -30,5 +31,7 @@ The platform is designed to be engaging and entertaining, with AI at its core ha
 | [SM Tausif](https://github.com/smtausif) | Backend Developer |
 | [Berke Balibasa](https://github.com/berke-balibasa) | AI Developer |
 | [Mustafa Abidi](https://github.com/MustafaA24199) | QA & Documentation |
+
+</div>
 
 ---
