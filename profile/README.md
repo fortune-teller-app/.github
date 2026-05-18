@@ -16,7 +16,7 @@
 
 ---
 
-Fortune Teller is an AI-powered fortune-telling platform offering personalized readings across astrology, tarot, and palmistry. Unlike traditional fortune-telling apps, Fortune Teller builds a unique experience around each user — collecting profile data and preferences to generate readings that are relevant, personal, and different every time.
+Fortune Teller is an AI-powered fortune-telling platform offering personalized readings across astrology, tarot, and palmistry. Unlike traditional fortune-telling apps, Fortune Teller builds a unique experience around each user collecting profile data and preferences to generate readings that are relevant, personal, and different every time.
 The platform is designed to be engaging and entertaining, with AI at its core handling the generation and personalization of every reading. As users continue to interact with the app, their experience becomes increasingly tailored to them.
 
 ---
